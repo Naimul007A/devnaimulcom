@@ -1,0 +1,24 @@
+title = "Naimul Islam"
+
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+[languages]
+[languages.en]
+htmlCode = "en"
+displayName = "EN"
+rtl = false
+
+
+[params.author]
+name = "Naimul Islam"
+image = "img/avatar.jpg"
+headline = "Full stack Web Developer"
+links = [
+  { facebook = "https://www.facebook.com/naimul.dev/" },
+  { x = "https://x.com/dev_naimul" },
+  { github = "https://github.com/Naimul007A" },
+  { linkedin = "https://www.linkedin.com/in/devnaimul/" },
+  { email = "mailto:mdnaimul2090@gmail.com" },
+]

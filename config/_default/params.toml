@@ -1,0 +1,9 @@
+colorScheme = "ocean"
+homepage.layout = "profile"
+homepage.showRecent = true
+mainPosts = ["posts"]
+defaultAppearance = 'dark'
+autoSwitchApperance = true
+enableSearch = true
+footer.showScrollToTop = true
+footer.showAppearanceSwitcher = true

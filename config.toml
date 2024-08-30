@@ -1,0 +1,5 @@
+baseURL = 'http://devnaimul.com'
+languageCode = 'en'
+title = 'Naimul Islam'
+avatar = "img/avatar.jpg"
+summaryLength = 10
